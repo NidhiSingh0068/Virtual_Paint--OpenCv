@@ -1,0 +1,2 @@
+# Virtual_Paint--OpenCv
+This project is about Virtual Paint. In this, we open our PC's/laptop's camera and in front we draw in air from different coloured pens. It detects the colour and draws on-screen in similar directions. In this project, two packages have been imported: 1. cv2 2. numpy And here we have detected four colours: Orange, Green, Purple, Blue. Three functions are used: 1. findColor( ) 2. getContours( ) 3. drawOnCanvas( )
